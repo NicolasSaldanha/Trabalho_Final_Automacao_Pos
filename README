@@ -1,0 +1,12 @@
+Foi utilizado o frameqork Page Objects para organização do código de maneira similar à feita em aula!
+
+o aquivo home_page.py possui as funções utilizadas para navegar na tela durante os testes.
+
+O arquivo test_final_raw.py possui o script de testes utilizado.
+No script de testes, adicionaie mais algumas etapas de teste e validações para diferenciar meu código do restante da turma.
+Adicionei também a função get_log que é responsável pela chamada da linha retornada conforme necessidade.
+
+É importante ressaltar que, para rodar o código feito, é necessário chamar o pytest no terminal conforme será apresentado no vídeo final.
+
+Ademais, obrigado pelas aulas professor!
+Até a próxima!
